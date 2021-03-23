@@ -1,0 +1,80 @@
+/* Nest Nav */
+nav ul {
+  text-align: left;
+}
+
+nav li {
+  display: inline;
+ 
+}
+
+body {
+  background-color: #daaa0e;
+}
+
+/* Nest Main */
+main {
+  display: flex;
+  margin-top: 50px;
+}
+
+main section {
+  background: #d4d5d8;
+  border: 20px solid white;
+  margin: 0;
+  padding: 10px;
+  width: 1000px;
+  text-align: center;
+}
+
+main section span {
+  text-align: justify;
+  text-align: center;
+  margin-top: 100px;
+  font-family: "Sacramento", cursive;
+  font-size: 35px;
+}
+
+main section h3 {
+  text-align: justify;
+  text-align: center;
+  margin-top: 100px;
+  color: #313130;
+  font-size: 50px;
+  font: Arial;
+}
+
+main section p {
+  text-align: justify;
+  text-align: center;
+  margin-top: 100px;
+  color: #313130;
+  font-size: 20px;
+  font: Arial;
+}
+
+main img {
+  max-width: 100%;
+  height: auto;
+  padding-top: 15px;
+}
+
+footer {
+  color: #313130;
+  margin-left: 50px;
+  margin-top: 25px;
+}
+
+.submit-buttton {
+  text-align: justify;
+  text-align: center;
+  margin-top: 100px;
+  background-color: #daaa0e;
+  color: white;
+  width: 100px;
+  height: 50px;
+  font: Arial;
+  margin-top: 50px;
+  text-align: center;
+}
+/*# sourceMappingURL=styles.css.map */
